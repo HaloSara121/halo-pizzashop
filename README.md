@@ -7,7 +7,7 @@
 ![https://i.imgur.com/KkQNZOn.gif](https://i.imgur.com/KkQNZOn.gif)
 
 ## Description
-This project is a dashboard for managing restaurants. You can organize all of your recived orders, your month reveneu and even your canceled order, and easily see metrics in nice charts <br/>
+This project is a dashboard for managing restaurants. You can organize all of your received orders, your monthly revenue, and even your canceled orders, and easily see metrics in nice charts. <br/>
 
 ## Technologies
 - React
